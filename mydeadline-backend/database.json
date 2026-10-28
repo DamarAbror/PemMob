@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Damar Abror",
+      "username": "Kyuu",
+      "password": "Kyuu",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "fullName": "Zahra Zusseta",
+      "username": "Lou",
+      "password": "Lou",
+      "role": "user"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1793183530271",
+      "title": "Week 7",
+      "course": "Pemrograman Mobile",
+      "deadline": "29 okt 2026"
+    },
+    {
+      "id": "1",
+      "title": "Membuat Laporan Praktikum Mobile",
+      "course": "Pemrograman Mobile",
+      "deadline": "20 Okt 2026"
+    },
+    {
+      "id": "2",
+      "title": "Mengerjakan Soal Aljabar Linear",
+      "course": "Matematika Diskrit",
+      "deadline": "22 Okt 2026"
+    }
+  ]
+}
